@@ -1,4 +1,4 @@
-<h1 align="center">Foo Medical</h1>
+<h1 align="center">DDH_Dental</h1>
 <p align="center">A free and open-source healthcare webapp from the Medplum team.</p>
 <p align="center">
   <a href="https://github.com/medplum/foomedical/actions">
@@ -14,7 +14,7 @@
 
 ![Foo Medical Screenshot](screenshot.png)
 
-### What is Foo Medical?
+### What is DDH_Dental?
 
 [Foo Medical](https://foomedical.com/) is a **ready to use medical practice sample app** that's open source. It's meant for developers to clone, customize and run.
 
